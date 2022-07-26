@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Dyn76
 - 👀 I’m interested in ...
-Machine Learning /MATLAB /openFOAM  
+Machine Learning /MATLAB /openFOAM / C++  
 - 🌱 I’m currently learning ...
 openFOAM programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 d.kotabish@djkotabish.com or 
-dreisig45@earthlink.net
+dzierg60@gmail.com
 
 <!---
 Dyn76/Dyn76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
